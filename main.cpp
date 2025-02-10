@@ -1,4 +1,3 @@
-F Ghiasi, [2/11/2025 12:14 AM]
 #include <iostream>
 
 using namespace std;
@@ -166,7 +165,7 @@ int main() {
         cout << "Diff:\n";
         Out(res, r1, c1);
 
-F Ghiasi, [2/11/2025 12:14 AM]
+
 if (c1 == r2) {
             Mul(a, b, res, r1, c1, c2);
             cout << "Product:\n";
